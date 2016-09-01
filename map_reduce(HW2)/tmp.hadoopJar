@@ -1,0 +1,9 @@
+/usr/share/doc/hadoop-2.6.0+cdh5.4.2+567/hadoop-streaming
+/usr/lib/oozie/oozie-sharelib-mr1/lib/mapreduce-streaming/hadoop-streaming.jar
+/usr/lib/oozie/oozie-sharelib-yarn/lib/mapreduce-streaming/hadoop-streaming.jar
+/usr/lib/hadoop-mapreduce/hadoop-streaming-2.6.0-cdh5.4.2.jar
+/usr/lib/hadoop-mapreduce/hadoop-streaming.jar
+/usr/lib/hadoop-0.20-mapreduce/contrib/streaming/hadoop-streaming-2.6.0-mr1-cdh5.4.2.jar
+/usr/lib/hadoop-0.20-mapreduce/contrib/streaming/hadoop-streaming-mr1.jar
+/usr/jars/hadoop-streaming-2.6.0-mr1-cdh5.4.2.jar
+/usr/jars/hadoop-streaming-2.6.0-cdh5.4.2.jar
